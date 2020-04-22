@@ -1,0 +1,17 @@
+body{margin: 0;padding: 0;}
+
+ 
+
+
+#sp1{
+  font-size: 30px;
+    background-color: aqua;
+    color: black;
+}
+
+#su{
+    width: 250px;
+    height: 250px;
+    background: url(./img/spyder.ico);
+}
+
